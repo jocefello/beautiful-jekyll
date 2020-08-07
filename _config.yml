@@ -214,3 +214,4 @@ plugins:
 theme: jekyll-theme-minimal
 
 lang: es
+languages: ["es", "en"] 
