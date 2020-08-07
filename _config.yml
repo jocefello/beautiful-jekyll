@@ -215,3 +215,4 @@ theme: jekyll-theme-minimal
 
 lang: es
 languages: ["es", "en"] 
+permalink: /:categories/:year/:month/:day/:title/
